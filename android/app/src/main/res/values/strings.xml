@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">First</string>
+    <string name="button_on_main">Click me</string>
+    <string name="text_box">Edit</string>
+    <string name="text_view">Enter your name</string>
+</resources>

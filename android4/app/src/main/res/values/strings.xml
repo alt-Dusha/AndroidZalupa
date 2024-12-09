@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Triangle</string>
+    <string name="button">New triangle</string>
+    <string name="first_lenght">First:</string>
+    <string name="second_lenght">Second:</string>
+    <string name="third_lenght">Third:</string>
+    <string name="p">P:</string>
+    <string name="s">S:</string>
+</resources>
